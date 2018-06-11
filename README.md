@@ -1,6 +1,8 @@
 # SimpleEmailSignature
 Simple Email Signature made in HTML
 
+
+
 Steps: 
 1. Open the SimpleEmailSignature.html (Whatever Text Editor you like)
 2. Make changes to the HTML code
