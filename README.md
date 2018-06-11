@@ -11,5 +11,5 @@ Steps:
 
 Side Note:
 
-Images I used where found on the google image search, right click on an image and use "Copy Image Address" to use a diffrent image and paste it directly in the src in the image tag. 
+Images I used where found on the google image search, right click on an image and use "Copy Image Address" to use a diffrent image and paste it directly in the src in the image tag,
 must have an extention like ".png"
